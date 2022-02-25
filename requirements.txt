@@ -1,0 +1,12 @@
+google==3.0.0
+ipinfo==4.2.1
+pipwin==0.5.1
+PyAudio==0.2.11
+pypiwin32==223
+python-dotenv==0.19.2
+pyttsx3==2.90
+pywin32==303
+requests==2.27.1
+SpeechRecognition==3.8.1
+vosk==0.3.32
+Wikipedia-API==0.5.4
